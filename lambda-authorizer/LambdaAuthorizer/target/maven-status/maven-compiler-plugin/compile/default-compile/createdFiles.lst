@@ -1,0 +1,14 @@
+com\appsdeveloperblog\aws\lambda\authorizer\AuthorizerOutput$Builder.class
+com\appsdeveloperblog\aws\lambda\service\CognitoUserServiceTest.class
+com\appsdeveloperblog\aws\lambda\authorizer\AwsCognitoRSAKeyProvider.class
+com\appsdeveloperblog\aws\lambda\authorizer\AuthorizerOutput$1.class
+com\appsdeveloperblog\aws\lambda\authorizer\PolicyDocument$1.class
+com\appsdeveloperblog\aws\lambda\GetUserByUsernameHandler.class
+com\appsdeveloperblog\aws\lambda\authorizer\Statement$1.class
+com\appsdeveloperblog\aws\lambda\authorizer\AuthorizerOutput.class
+com\appsdeveloperblog\aws\lambda\authorizer\JwtUtils.class
+com\appsdeveloperblog\aws\lambda\authorizer\Statement$Builder.class
+com\appsdeveloperblog\aws\lambda\authorizer\LambdaAuthorizer.class
+com\appsdeveloperblog\aws\lambda\authorizer\PolicyDocument$Builder.class
+com\appsdeveloperblog\aws\lambda\authorizer\Statement.class
+com\appsdeveloperblog\aws\lambda\authorizer\PolicyDocument.class
